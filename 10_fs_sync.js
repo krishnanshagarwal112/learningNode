@@ -9,7 +9,7 @@ writeFileSync(
     {flag: 'w'} 
     )
 
-const third = readFileSync('./content/result.txt','utf8')
+const third = readFileSync('./content/result-sync.txt','utf8')
 
 console.log(first);
 console.log(second);
