@@ -1,0 +1,24 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnanshagarwal112/learningNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnanshagarwal112/learningNode/issues"
+  },
+  "homepage": "https://github.com/krishnanshagarwal112/learningNode#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "loadash": "^1.0.0"
+  }
+}
