@@ -4,7 +4,7 @@
   "description": "",
   "main": "01_intro.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/krishnanshagarwal112/learningNode#readme",
   "dependencies": {
-    "bootstrap": "^5.2.0",
-    "loadash": "^1.0.0",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
